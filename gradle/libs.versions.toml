@@ -26,9 +26,9 @@ com-squareup-okhttp3-mockwebserver = { module = "com.squareup.okhttp3:mockwebser
 com-squareup-okhttp3-okhttp = { module = "com.squareup.okhttp3:okhttp", version.ref = "com-squareup-okhttp3" }
 com-unboundid-unboundid-ldapsdk = "com.unboundid:unboundid-ldapsdk:6.0.10"
 commons-collections = "commons-collections:commons-collections:3.2.2"
-io-micrometer-micrometer-observation = "io.micrometer:micrometer-observation:1.12.0-RC1"
+io-micrometer-micrometer-observation = "io.micrometer:micrometer-observation:1.12.0"
 io-mockk = "io.mockk:mockk:1.13.8"
-io-projectreactor-reactor-bom = "io.projectreactor:reactor-bom:2023.0.0-RC1"
+io-projectreactor-reactor-bom = "io.projectreactor:reactor-bom:2023.0.0"
 io-rsocket-rsocket-bom = { module = "io.rsocket:rsocket-bom", version.ref = "io-rsocket" }
 io-spring-javaformat-spring-javaformat-checkstyle = { module = "io.spring.javaformat:spring-javaformat-checkstyle", version.ref = "io-spring-javaformat" }
 io-spring-javaformat-spring-javaformat-gradle-plugin = { module = "io.spring.javaformat:spring-javaformat-gradle-plugin", version.ref = "io-spring-javaformat" }
@@ -71,7 +71,7 @@ org-hsqldb = "org.hsqldb:hsqldb:2.7.2"
 org-jetbrains-kotlin-kotlin-bom = { module = "org.jetbrains.kotlin:kotlin-bom", version.ref = "org-jetbrains-kotlin" }
 org-jetbrains-kotlin-kotlin-gradle-plugin = "org.jetbrains.kotlin:kotlin-gradle-plugin:1.9.20"
 org-jetbrains-kotlinx-kotlinx-coroutines-bom = { module = "org.jetbrains.kotlinx:kotlinx-coroutines-bom", version.ref = "org-jetbrains-kotlinx" }
-org-junit-junit-bom = "org.junit:junit-bom:5.10.0"
+org-junit-junit-bom = "org.junit:junit-bom:5.10.1"
 org-mockito-mockito-bom = { module = "org.mockito:mockito-bom", version.ref = "org-mockito" }
 org-opensaml-opensaml-core = { module = "org.opensaml:opensaml-core", version.ref = "org-opensaml" }
 org-opensaml-opensaml-saml-api = { module = "org.opensaml:opensaml-saml-api", version.ref = "org-opensaml" }
